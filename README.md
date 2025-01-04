@@ -128,7 +128,7 @@ a. Melhores restaurantes dos principais tipos culinários, b. Top 10 restaurante
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O painel pode ser acessado através desse link: COLOCAR O LINK
+## O painel pode ser acessado através desse link: https://zomato2024.streamlit.app/
 
 # 6. Conclusão
 O Dataset da API Zomato é uma ferramenta valiosa para explorar o mundo gastronômico, oferecendo informações detalhadas sobre os melhores restaurantes, suas avaliações e características em várias cidades ao redor do mundo. Com dados atualizados semanalmente, é possível acompanhar as tendências do setor, descobrir novas opções de restaurantes e analisar o desempenho de diferentes tipos de culinária em diversas regiões.
